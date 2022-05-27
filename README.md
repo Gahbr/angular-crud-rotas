@@ -7,7 +7,7 @@ Crud de lista de usuários feita em Angular e Bootstrap. Para salvar os dados fo
 
 ## 🛠 Tecnologias utilizadas
 * Angular
-* Javascript
+* Typescript
 * Bootstrap 
 * HTML
 * CSS
